@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Contact me, Lucie Naujalis's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Lucie Naujalis</a> / Metal Worker
+                
+                <img src="../content/logo.png" alt="logo" class="logo" />
+                
+			</h1>
+			<em class="col three"><p><a href="&#x6d;&#97;i&#x6c;&#116;o&#x3a;&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m">&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m</a></p>
+</em>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+ <li><em>Projects</em></li>
+    <li>
+  	<a href="./?/projects/Triangles/">Triangles</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Alphabet/">Alphabet</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Fourmi/">Fourmi</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Chute/">La chute</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Dedale/">Dédale</a>
+  </li>
+    <li>
+  	<a href="./?/projects/HautPercher/">Haut Perché</a>
+  </li>
+   <li><em>Design</em></li>
+    <li>
+  	<a href="./?/design/furnitures/">Furnitures</a>
+  </li>
+    <li>
+  	<a href="./?/design/Bijoux/">Profil</a>
+  </li>
+    <li>
+  	<a href="./?/design/willShake/">willShake</a>
+  </li>
+   <li><em>Study</em></li>
+    <li>
+  	<a href="./?/Study/Experimentation/">Expérimentation</a>
+  </li>
+   <li><em>------</em></li>
+    <li>
+  	<a href="./?/pagez/about/">About</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/contact-me/">Contact me</a>
+  </li>
+  
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<p class="date col one">&para;</p>
+				<div class="description col six">
+					<h2><a href="./">Contact me</a></h2>
+					<div id="media">
+  <div id="hoverNav" style="margin-left: 0px; over-flow: hidden;">
+	<a id="prevLink" href="#" style="height: 340px;"></a>
+	<a id="nextLink" href="#" style="height: 340px;"></a>
+</div>
+  
+  
+  
+  
+  
+  
+  
+</div>
+                    <p><a href="./" style="padding-left: 90px;"><p>Don't hesitate to drop me an email for any enquiries or just to say hello!</p>
+
+<p>I can be contacted at: <a href="&#x6d;&#97;i&#x6c;&#116;o&#x3a;&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m">&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m</a>.</p>
+</a></p>
+					
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Lucie Naujalis 2015 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script src="./public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 2c4024ee457923ad13eeeab691020404 -->

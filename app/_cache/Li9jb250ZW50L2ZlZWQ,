@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Lucie Naujalis's Portfolio Feed</title>
+  <subtitle>Metal Worker</subtitle>
+  <link href="http://lucienaujalis.com/?/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://lucienaujalis.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2015-09-23T01:38:42+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Lucie Naujalis</name>
+    <uri>http://lucienaujalis.com</uri>
+  </author>
+
+  <id>tag:lucienaujalis.com,2015:/?/feed/</id>
+  <rights>©2015 Lucie Naujalis</rights>
+    <entry>
+   <title>Projects</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/</id>
+   <updated>2015-02-24T10:50:59+11:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Triangles</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/Triangles/</id>
+   <updated>2015-09-23T01:15:09+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/Triangles/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/6.Triangles/10.32moitie.jpg" alt="32moitie."/>
+  <img src="./content/4.projects/6.Triangles/09.32moitietop.jpg" alt="32moitietop."/>
+  <img src="./content/4.projects/6.Triangles/08.32front.jpg" alt="32front."/>
+  <img src="./content/4.projects/6.Triangles/07.32dos.jpg" alt="32dos."/>
+  <img src="./content/4.projects/6.Triangles/06.30front.jpg" alt="30front."/>
+
+          
+            <p>Recherche autour du triangle. L'idée première était de réaliser des bols mais en utilisant une technique plus rapide que le martelage. J'ai alors cherché à fragmenter la forme. Le triangle s'est imposé. Ensuite, j'ai joué avec les angles. 
+<br /> Search around the triangle, the first idea was to make bowls but using a faster than hammering technique. I then seek to fragementer form. The triangle is imposser. Then I play with degrees.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Alphabet</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/Alphabet/</id>
+   <updated>2015-09-22T20:05:45+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/Alphabet/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/5.Alphabet/N.jpg" alt="N."/>
+  <img src="./content/4.projects/5.Alphabet/M.jpg" alt="M."/>
+  <img src="./content/4.projects/5.Alphabet/JM.jpg" alt="JM."/>
+  <img src="./content/4.projects/5.Alphabet/J.jpg" alt="J."/>
+  <img src="./content/4.projects/5.Alphabet/H.jpg" alt="H."/>
+
+          
+            <p>Lettres <br /> Recherche d'une simplification et de proportion de quelques lettres.<br />
+<br />
+<br />Letters
+<br />Study forms and proportions of several letter.
+<br />
+<br /> Photos Daniel Menet</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Fourmi</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/Fourmi/</id>
+   <updated>2015-09-22T23:03:20+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/Fourmi/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/4.Fourmi/3.FOURMIS DEMI ROUGE.jpg" alt="FOURMIS DEMI ROUGE."/>
+  <img src="./content/4.projects/4.Fourmi/2.FOURMI TOURNe.jpg" alt="FOURMI TOURNe."/>
+  <img src="./content/4.projects/4.Fourmi/1.DECOUPE ALU.jpg" alt="DECOUPE ALU."/>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>La chute</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/Chute/</id>
+   <updated>2015-09-22T23:11:12+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/Chute/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/3.Chute/PC021102.JPG" alt="PC021102."/>
+  <img src="./content/4.projects/3.Chute/OISEAU.jpg" alt="OISEAU."/>
+
+          
+            <p>Mise en forme, d'une pièce de demi-rouge, sur le thème de vanité.
+<br /></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Dédale</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/Dedale/</id>
+   <updated>2015-04-06T08:29:42+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/Dedale/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/2.Dedale/02.BOITE FERMe.jpg" alt="BOITE FERMe."/>
+  <img src="./content/4.projects/2.Dedale/01.BOITEOUVERTE.jpg" alt="BOITEOUVERTE."/>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Haut Perché</title>
+   <id>tag:lucienaujalis.com,2015:/?/projects/HautPercher/</id>
+   <updated>2015-04-04T11:12:55+11:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/projects/HautPercher/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.projects/1.HautPercher/10 realisation.jpg" alt="10 realisation."/>
+  <img src="./content/4.projects/1.HautPercher/09.VUERAPPROCHER.jpg" alt="VUERAPPROCHER."/>
+  <img src="./content/4.projects/1.HautPercher/08 chateauechelleetdeuxieme.jpg" alt="08 chateauechelleetdeuxieme."/>
+  <img src="./content/4.projects/1.HautPercher/07.GAZ.jpg" alt="GAZ."/>
+  <img src="./content/4.projects/1.HautPercher/05.planreproche.jpg" alt="Planreproche."/>
+
+          
+            <p>Ce projet est né de mon intérêt pour l'architecture industrielle et son graphisme particulier. 
+Mon regard s'est concentré sur les réservoirs: les châteaux d'eau, les silos à grains, l'opposition entre les masses et les structures élégantes qui les supportent. Je me suis appuyée sur ces observations, nourrie des photos de Bernd et Hilla Becher et inspirée du « charme » que dégage le patrimoine industriel pour créer ce paysage.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Design</title>
+   <id>tag:lucienaujalis.com,2015:/?/design/</id>
+   <updated>2015-08-02T03:14:01+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/design/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Furnitures</title>
+   <id>tag:lucienaujalis.com,2015:/?/design/furnitures/</id>
+   <updated>2015-09-23T01:38:42+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/design/furnitures/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.design/4.furnitures/10.LAVABO PETIT.jpg" alt="LAVABO PETIT."/>
+  <img src="./content/3.design/4.furnitures/9.Pendrie-12.jpg" alt="Pendrie 12."/>
+  <img src="./content/3.design/4.furnitures/8.Pendrie-6.jpg" alt="Pendrie 6."/>
+  <img src="./content/3.design/4.furnitures/7.Pendrie1.jpg" alt="Pendrie1."/>
+  <img src="./content/3.design/4.furnitures/6.Sheves-10.jpg" alt="Sheves 10."/>
+  <img src="./content/3.design/4.furnitures/5.Sheves-11.jpg" alt="Sheves 11."/>
+  <img src="./content/3.design/4.furnitures/4.Sheves-1.jpg" alt="Sheves 1."/>
+  <img src="./content/3.design/4.furnitures/3.table bottega fini.jpg" alt="Table bottega fini."/>
+  <img src="./content/3.design/4.furnitures/2.table Bottega.jpg" alt="Table Bottega."/>
+  <img src="./content/3.design/4.furnitures/1.railing.jpg" alt="Railing."/>
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Profil</title>
+   <id>tag:lucienaujalis.com,2015:/?/design/Bijoux/</id>
+   <updated>2015-08-02T00:35:35+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/design/Bijoux/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.design/3.Bijoux/15.jpg" alt="15."/>
+  <img src="./content/3.design/3.Bijoux/14.jpg" alt="14."/>
+  <img src="./content/3.design/3.Bijoux/13.jpg" alt="13."/>
+  <img src="./content/3.design/3.Bijoux/12.jpg" alt="12."/>
+  <img src="./content/3.design/3.Bijoux/11.jpg" alt="11."/>
+  <img src="./content/3.design/3.Bijoux/10.jpg" alt="10."/>
+  <img src="./content/3.design/3.Bijoux/08.jpg" alt="08."/>
+  <img src="./content/3.design/3.Bijoux/05.dinosaurs.jpg" alt="Dinosaurs."/>
+  <img src="./content/3.design/3.Bijoux/04.DSC_9469.jpg" alt="DSC 9469."/>
+  <img src="./content/3.design/3.Bijoux/03.jpg" alt="03."/>
+
+          
+            <p>Profile <br /> Collection de bijoux réalisé à partir de chute de métal. Ils sont actuellement en vente dans la boutique HERE TODAY HERE TOMORROW. Vous avez aussi la possibilité de me contacter directement.<br />
+<br />
+<br />Collection of jewelry produced from scrap metal.They are currently on sale in the store HERE TODAY HERE TOMORROW. You also have the opportunity to contact me directly.
+<br />
+<br /> Photos Roman Skyva</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>willShake</title>
+   <id>tag:lucienaujalis.com,2015:/?/design/willShake/</id>
+   <updated>2015-09-22T20:34:06+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/design/willShake/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.design/2.willShake/6.WillShake Henry V Shoot-11 copy.jpg" alt="WillShake Henry V Shoot 11 copy."/>
+  <img src="./content/3.design/2.willShake/5.STEEL.jpg" alt="STEEL."/>
+  <img src="./content/3.design/2.willShake/4.GOLD.jpg" alt="GOLD."/>
+  <img src="./content/3.design/2.willShake/3.WillShake Henry V Shoot-169.jpg" alt="WillShake Henry V Shoot 169."/>
+  <img src="./content/3.design/2.willShake/2.BOXE LARGE.jpg" alt="BOXE LARGE."/>
+  <img src="./content/3.design/2.willShake/1.GROS PLAN.jpg" alt="GROS PLAN."/>
+
+          
+            <p>Réalisation d'une couronne et d'un lettrage pour un cour métragre : willShake.
+<br />willShake est une série pour enfant,qui a pour butte de faire décrouvrir,raconter les romans de William Shakespeare.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Study</title>
+   <id>tag:lucienaujalis.com,2015:/?/Study/</id>
+   <updated>2015-09-23T00:23:59+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/Study/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Expérimentation</title>
+   <id>tag:lucienaujalis.com,2015:/?/Study/Experimentation/</id>
+   <updated>2015-09-23T00:22:05+10:00</updated>
+   <summary>A collection of metal work</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/Study/Experimentation/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/2.Study/2.Experimentation/2.tubes.jpg" alt="Tubes."/>
+  <img src="./content/2.Study/2.Experimentation/1.maison.jpg" alt="Maison."/>
+
+          
+            <p>Un peu de tout. Cette page regroupe les essaies que réalise. Ils sont les premiers pas de futures projets.
+<br />
+<br />A little of everything. This page contains the try that realizes. They are the first steps for future projects.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>------</title>
+   <id>tag:lucienaujalis.com,2015:/?/pagez/</id>
+   <updated>2015-02-24T10:50:47+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/pagez/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>About</title>
+   <id>tag:lucienaujalis.com,2015:/?/pagez/about/</id>
+   <updated>2015-02-24T10:50:46+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/pagez/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>lucie is a metalworker based in London.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Contact me</title>
+   <id>tag:lucienaujalis.com,2015:/?/pagez/contact-me/</id>
+   <updated>2015-02-24T10:50:46+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://lucienaujalis.com/?/pagez/contact-me/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Don't hesitate to drop me an email for any enquiries or just to say hello!</p>
+
+<p>I can be contacted at: <a href="&#38;#x6d;&#38;#97;i&#38;#x6c;&#38;#116;o&#38;#x3a;&#38;#108;b&#38;#x6e;&#38;#97;u&#38;#x6a;&#38;#97;l&#38;#x69;&#38;#115;&#38;#64;&#38;#x67;&#38;#109;a&#38;#x69;&#38;#108;.&#38;#x63;&#38;#111;m">&#38;#108;b&#38;#x6e;&#38;#97;u&#38;#x6a;&#38;#97;l&#38;#x69;&#38;#115;&#38;#64;&#38;#x67;&#38;#109;a&#38;#x69;&#38;#108;.&#38;#x63;&#38;#111;m</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+
+</feed>
+<!-- Stacey(2.3.0): 2c4024ee457923ad13eeeab691020404 -->

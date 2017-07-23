@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Dédale, Lucie Naujalis's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Lucie Naujalis</a> / Metal Worker
+                <img src="../content/logo.png" alt="logo" class="logo" />
+			</h1>
+			<em class="col three"><p><a href="&#x6d;&#97;i&#x6c;&#116;o&#x3a;&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m">&#108;b&#x6e;&#97;u&#x6a;&#97;l&#x69;&#115;&#64;&#x67;&#109;a&#x69;&#108;.&#x63;&#111;m</a></p>
+</em>
+            
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+ <li><em>Projects</em></li>
+    <li>
+  	<a href="./?/projects/Triangles/">Projects</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Alphabet/">Alphabet</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Fourmi/">Fourmi</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Chute/">La chute</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Dédale-2/">Dédale</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Haut-Percher-1/">Haut Perché</a>
+  </li>
+   <li><em>Design</em></li>
+    <li>
+  	<a href="./?/design/furnitures/">Furnitures</a>
+  </li>
+    <li>
+  	<a href="./?/design/Bijoux/">Profil</a>
+  </li>
+    <li>
+  	<a href="./?/design/willShake/">willShake</a>
+  </li>
+   <li><em>Study</em></li>
+    <li>
+  	<a href="./?/Study/Experimentation/">Expérimentation</a>
+  </li>
+   <li><em>------</em></li>
+    <li>
+  	<a href="./?/pagez/about/">About</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/contact-me/">Contact me</a>
+  </li>
+  
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<p class="date col one">2011, Janvier–</p>
+				<div class="description col six">
+					<h2><a href="./">Dédale</a></h2>
+					
+				</div>
+				<hr>
+				<p id="project-count" class="col one"><em>&#8470;</em> 5/6</p>
+				<p id="gallery-count" class="col one">
+				  <em>&#8470;</em> <span>1/1</span>
+				</p>
+				<div id="gallery-navigation" class="col three">
+				  <p><a href="#" id="next-image">Next image</a> <em>&rarr;</em></p>
+				  <p><a href="#" id="previous-image">Previous image</a> <em>&larr;</em></p>
+				</div>
+				<div class="col four">
+						<p><a href="./?/projects/Haut-Percher-1/">Next project</a>: &rarr; Haut Perché</p>
+
+						<p><a href="./?/projects/Chute/">Previous project</a>: &larr; La chute</p>
+
+				</div>
+				<div id="media">
+  <div id="hoverNav" style="margin-left: 0px; over-flow: hidden;">
+	<a id="prevLink" href="#" style="height: 340px;"></a>
+	<a id="nextLink" href="#" style="height: 340px;"></a>
+</div>
+  
+    
+	<div class="image">
+		<img src="./content/4.projects/2.Dédale-2/02.BOITE FERMé.jpg" alt="Dédale" width="224" height="500">
+    
+	</div>
+
+	<div class="image">
+		<img src="./content/4.projects/2.Dédale-2/01.BOITE OUVERTE.jpg" alt="Dédale" width="573" height="500">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Lucie Naujalis 2015 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script type="text/javascript" charset="utf-8">
+			document.getElementsByTagName('body')[0].className += ' js-enabled';
+		</script>
+		<script src="./public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./public/docs/js/gallery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): fb46cba6ad7250c6ab60e2d867423608 -->

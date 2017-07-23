@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>About, Lucie Naujalis's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Lucie Naujalis</a> / Metal Worker
+			</h1>
+			<em class="col three"><p><a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#108;&#117;&#99;&#105;&#101;&#64;&#108;&#117;c&#x69;&#x65;&#x6e;&#x61;&#x75;&#x6a;&#x61;&#x6c;&#105;&#115;&#46;&#99;&#111;&#109;">&#108;&#117;&#99;&#105;&#101;&#64;&#108;&#117;c&#x69;&#x65;&#x6e;&#x61;&#x75;&#x6a;&#x61;&#x6c;&#105;&#115;&#46;&#99;&#111;&#109;</a></p>
+</em>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+ <li><em>Projects</em></li>
+    <li>
+  	<a href="./?/projects/Haut-Percher-1/">Haut Percher</a>
+  </li>
+   <li><em>What the f</em></li>
+    <li>
+  	<a href="./?/pagez/about/">About</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/about/">About</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/contact-me/">Contact me</a>
+  </li>
+  
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<p class="date col one">&para;</p>
+				<div class="description col six">
+					<h2><a href="./">About</a></h2>
+					<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+					<p>Lucie is a London based metal worker</p>
+
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Lucie Naujalis 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script src="./public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 37e2a02c5c738a009873851f2ee274ee -->

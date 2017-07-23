@@ -1,0 +1,6 @@
+title: Contact me
+-
+content:
+Don't hesitate to drop me an email for any enquiries or just to say hello!
+
+I can be contacted at: <lucie@lucienaujalis.com>.

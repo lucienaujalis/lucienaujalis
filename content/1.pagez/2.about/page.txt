@@ -1,0 +1,5 @@
+title: About
+-
+content: 
+
+lucie is a metalworker based in London.
